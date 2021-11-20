@@ -1,6 +1,6 @@
 # heading1
 * friends
-   * suryaa 
+* senior
    * junior
    * vinni
 sample
